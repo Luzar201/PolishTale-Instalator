@@ -1,0 +1,39 @@
+# Keys in this file are not uploaded to Crowdin and stay in English for every language.
+
+# === settings ===
+
+settings.prototype.groups.weaponPullback = Weapon Pullback
+settings.prototype.groups.entityui = Entity UI
+settings.prototype.groups.playselect = Play Selection Tool
+settings.prototype.groups.paint = Paint
+settings.prototype.groups.debug = Debug
+settings.prototype.percentagePlayGizmoLength = Percentage Width for Gizmo Rendering
+settings.prototype.minPlaySelectGizmoSize = Minimum Gizmo Size
+settings.prototype.maxPlaySelectGizmoSize = Maximum Gizmo Size
+settings.prototype.paintOperationIgnoreHistoryLength = Play Paint Ignore History Length
+settings.prototype.adventureInteractionDistance = General Interaction Distance
+settings.prototype.useBlockSubfaces = Use Block Subfaces
+settings.prototype.displayBlockSubfaces = Display Block Subfaces
+settings.prototype.displayBlockBoundaries = Display Block Boundaries
+settings.prototype.placeBlocksAtRangeInAdventureMode = ---> Outside Creative Mode
+settings.prototype.blockPlacementSupportValidation = Block Placement Support Validation
+settings.prototype.blockPlacementFluidity = Creative Block Placement Fluidity
+settings.prototype.resetMouseSensitivityDuration = Time to Return Full Mouse Sensitivity
+settings.prototype.builderMode = Builder Mode
+settings.prototype.builderMode.tooltip = When toggled on AND in Creative mode, disables some features (i.e. fall effects, head-bobbing, etc...)
+settings.prototype.weaponPullback = Weapon Pullback
+settings.prototype.itemAnimationsClipGeometry = Item Animations Clip Geometry (Per Animation)
+settings.prototype.itemsClipGeometry = Items Clip Geometry (Per Item)
+settings.prototype.overrideFirstPersonAnimations = Use Override First Person Animations
+settings.prototype.entityUIMaxEntities = Max Entities
+settings.prototype.entityUIMaxDistance = Health Bar Max Distance
+settings.prototype.entityUIFadeStartDistance = Fade Start Distance
+settings.prototype.entityUIShrinkStartDistance = Shrink Start Distance
+settings.prototype.entityUIMinScale = Min Scale
+settings.prototype.entityUIHideDelay = Hide Delay
+settings.prototype.entityUIFadeInDuration = Fade In Duration
+settings.prototype.entityUIFadeOutDuration = Fade Out Duration
+settings.prototype.entityUILineOfSight = Line of Sight Check
+settings.prototype.entityUICombatTextMaxDistance = Combat Text Max Distance
+settings.prototype.displayTempPrefix = Show [TMP] Tags on Text
+settings.prototype.forceManagedSession = Force Managed Session

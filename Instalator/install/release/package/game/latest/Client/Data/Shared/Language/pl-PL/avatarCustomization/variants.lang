@@ -1,0 +1,157 @@
+earSide = Strona ucha
+earSide.left = Lewe
+earSide.right = Prawe
+earSide.both = Oba
+
+earStyle.upturned = Uniesione
+earStyle.downturned = Opadające
+
+pattern.skull = Grafika czaszki
+pattern.star = Grafika gwiazdy
+pattern.heart = Grafika serca
+pattern.flower = Grafika kwiatu
+pattern.gaia = Grafika pryzmatycznego drzewa
+pattern.cat = Grafika kota
+pattern.bunny = Grafika królika
+pattern.unicorn = Grafika jednorożca
+pattern.play = Grafika przycisku odtwarzania
+pattern.play_inverted = Grafika odwróconego przycisku odtwarzania
+pattern.kweebec = Grafika kweebeca
+pattern.hypixel = Grafika Hypixel
+pattern.smile = Grafika uśmiechu
+pattern.error = Grafika błędu 404
+pattern.alien = Grafika kosmity
+pattern.cursor = Grafika kursora
+pattern.lightning = Grafika błyskawicy
+pattern.text_graphic = Grafika z tekstem
+
+pattern.goblin_ears = Grafika uszu
+pattern.goblin_teeth = Grafika zębów
+pattern.goblin_face = Grafika twarzy
+pattern.goblin_x = Grafika znaku X
+
+pattern.checkerboard = Wzór szachownicy
+pattern.argyle = Wzór rombów
+pattern.rainbow = Tęcza
+pattern.accented = Z akcentami
+pattern.polka_dot = Grochy
+pattern.double_stripe = Podwójny pasek
+pattern.bottom_stripe = Pasek u dołu
+pattern.double_stripe_black = Czarny podwójny pasek
+pattern.bottom_stripe_black = Czarny pasek u dołu
+pattern.chevron = Biały szewron
+pattern.chevron_black = Czarny szewron
+pattern.checkers = Biała szachownica
+pattern.checkers_black = Czarna szachownica
+pattern.grid = Siatka
+
+pattern.rotten = Zgniły
+
+pants.dungareesshorts = Krótkie ogrodniczki
+pants.bracedshorts = Szorty na szelkach
+pants.dungarees = Ogrodniczki
+pants.bracedpants = Spodnie na szelkach
+pants.hiddenbelt = Ukryty pasek
+
+pants.long = Długie
+pants.medium = Średnie
+pants.short = Krótkie
+
+style.untucked = Niewpuszczone
+style.tucked = Wpuszczone
+style.half_tucked = Częściowo wpuszczone
+style.lowcut = Z głębokim wycięciem
+style.inverted = Odwrócone
+style.offshoulder = Opuszczone na ramiona
+style.crop = Krótkie
+style.buttoned_up = Zapięte pod szyję
+style.buttoned = Zapięte
+style.layered = Warstwowe
+style.nose_bridge = Na grzbiecie nosa
+style.tie_clip = Spinka do krawata
+style.goggles_up = Gogle uniesione
+style.unzipped = Rozpięte
+style.snapback = Czapka snapback
+
+style.left = Lewa
+style.right = Prawa
+style.back = Tył
+style.front = Przód
+style.both = Obie
+
+style.longspikes = Długie kolce
+
+piercing.bridge = Kolczyk w nasadzie nosa
+piercing.teardrop = Kolczyk w kształcie łzy
+piercing.cheek_left = Kolczyk w lewym policzku
+piercing.cheek_right = Kolczyk w prawym policzku
+
+color.black = Czarny
+color.white = Biały
+color.cream = Kremowy
+
+pattern.striped = Paski
+pattern.striped_black = Czarne paski
+pattern.striped_white = Białe paski
+pattern.striped_horizontal = Poziome paski
+pattern.striped_vertical = Pionowe paski
+pattern.hearts = Serca
+
+style.sheriff = Szeryf
+style.studded = Z ćwiekami
+style.cowskull = Czaszka krowy
+style.leather_accents = Skórzane akcenty
+style.colored_accents = Kolorowe akcenty
+
+pattern.goblinthief_cape_graffiti = Graffiti
+pattern.goblinthief_cape_graffiti_noneck = Graffiti bez kołnierza
+pattern.graffiti = Graffiti
+
+option.a = Opcja A
+option.b = Opcja B
+option.c = Opcja C
+
+default = Domyślne
+
+overtops.Scavenger_Poncho = Bez czaszki
+
+capes.no_neck = Bez kołnierza
+
+haircuts.Dreadlocks01.name = Dredy 1
+haircuts.Dreadlocks02.name = Dredy 2
+haircuts.Dreadlocks03.name = Dredy 3
+haircuts.FrizzyBun01.name = Puszące się koki 1
+haircuts.FrizzyBun02.name = Puszące się koki 2
+haircuts.SlickbackCowlick.name = Zaczesane do tyłu z wirkiem
+haircuts.Hairstrand.name = Pojedyncze pasmo włosów
+haircuts.GoldenBangles.name = Złote bransolety
+haircuts.FaceBraids.name = Warkoczyki przy twarzy
+
+haircuts.Cowlick01.name = Wir włosów 1
+haircuts.Cowlick02.name = Wir włosów 2
+
+haircuts.Shorter.name = Krótsze
+haircuts.Longer.name = Dłuższe
+
+haircuts.Messy.name = Potargane
+haircuts.Braids.name = Warkocze
+haircuts.Locks.name = Dredy
+haircuts.Wild.name = Dzikie
+
+haircuts.BangsMessy.name = Potargana grzywka
+haircuts.BangsStraight.name = Prosta grzywka
+haircuts.SingleStrand.name = Pojedyncze pasmo
+
+headaccessory.Logo_Cap_Movie.name = Logo filmowe
+headaccessory.Logo_Cap_Heart.name = Logo z sercem
+headaccessory.Logo_Cap_Hypixel.name = Logo Hypixel
+
+left_arm.name = Lewe ramię
+right_arm.name = Prawe ramię
+
+thin.name = Cienkie
+thick.name = Grube
+lefteye.name = Lewe oko
+righteye.name = Prawe oko
+
+faceaccessory.BanditMask_SideKnot.name = Maska bandyty wiązana z boku

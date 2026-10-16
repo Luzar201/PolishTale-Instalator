@@ -1,0 +1,50 @@
+earSide = strana ucha
+earSide.left = Vlevo
+earSide.right = Vpravo
+earSide.both = Oba
+
+pattern.skull = Vzor lebky
+pattern.star = Vzor hvězdy
+pattern.gaia = Vzor pryzmatického stromu
+pattern.cat = Vzor kočky
+pattern.bunny = Vzor králíka
+pattern.unicorn = Vzor jednorožce
+pattern.play = Vzor tlačítka přehrávání
+pattern.play_inverted = Obrácený vzor tlačítka přehrávání
+
+pants.dungareesshorts = Šortky s popruhy
+pants.bracedshorts = Zapínané šortky
+pants.dungarees = Overaly
+pants.bracedpants = Kalhoty s popruhy
+pants.hiddenbelt = Skrytý opasek
+
+option.a = Možnost A
+option.b = Možnost B
+option.c = Možnost C
+
+default = Výchozí
+
+overtops.Scavenger_Poncho = Bez Lebky
+
+capes.no_neck = Bez Krku
+
+haircuts.Dreadlocks01.name = Dredy 1
+haircuts.Dreadlocks02.name = Dredy 2
+haircuts.Dreadlocks03.name = Dredy 3
+haircuts.SlickbackCowlick.name = Uhlazené vlasy s vírem
+haircuts.Hairstrand.name = Pramen vlasů
+haircuts.GoldenBangles.name = Zlaté kroužky
+
+headaccessory.Logo_Cap_Movie.name = Logo filmu
+headaccessory.Logo_Cap_Heart.name = Logo srdce
+headaccessory.Logo_Cap_Hypixel.name = Logo Hypixel
+
+left_arm.name = Levá ruka
+right_arm.name = Pravá ruka
+
+thin.name = Tenké
+thick.name = Tlusté
+lefteye.name = Levé oko
+righteye.name = Pravé oko
+
+faceaccessory.BanditMask_SideKnot.name = Postranní uzel
